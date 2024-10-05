@@ -1,0 +1,4 @@
+Mi IP Publica es: 191.81.77.130
+Mi usuario es: osboxes
+El Hash de mi Usuario es: $y$j9T$qhEBRUgELZ6aUXPI0/aEx/$hxyNAbxfwvhkceqg/IHmYlGcZk9dItipuurCa2pA0l9
+La URL de mi repositorio es: https://github.com/joaquinabal/UTNFRA_SO_1P2C_2024_Abal.git
