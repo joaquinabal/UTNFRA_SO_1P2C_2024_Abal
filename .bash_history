@@ -379,3 +379,33 @@ git commit -m "Punto C Arreglado"
 git push git@github.com:joaquinabal/UTNFRA_SO_1P2C_2024_Abal.git
 cd
 history -a
+cp $HOME/.bash_history /home/osboxes/repogit/UTNFRA_SO_1P2C_2024_Abal/
+cd repogit
+cd UTNFRA_SO_1P2C_2024_Abal/
+tree
+git add .
+ls -l
+git commit -m "Copia de bash history"
+git push git@github.com:joaquinabal/UTNFRA_SO_1P2C_2024_Abal.git
+cat /etc/fstab
+nano /etc/fstab
+fdisk /bin/sdd
+lsblk
+cd repogit
+cd UTNFRA_SO_1P2C_2024_Abal/
+cd RTA_S
+cd RTA_SCRIPT_Examen_20241002/
+sudo bash Punto_B.sh
+lsblk
+cat /etc/fstab
+nano /etc/fstab
+blkid
+nano /etc/fstab
+sudo nano /etc/stab
+sudo nano /etc/fstab
+mount -a
+sudo nano /etc/fstab
+mount -a
+sudo nano /etc/fstab
+mount -a
+history -a
