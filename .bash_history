@@ -409,3 +409,30 @@ mount -a
 sudo nano /etc/fstab
 mount -a
 history -a
+cp $HOME/.bash_history /home/osboxes/repogit/UTNFRA_SO_1P2C_2024_Abal/
+git add . 
+git commit -m "Discos montados de manera persistente, actualizacion de bash.histotry"
+git add .
+git commit -m "Discos montados de manera persistente, actualizacion de bash.histotry"
+cd
+cd repogit
+cd UTN
+cd UTNFRA_SO_1P2C_2024_Abal/
+git add .
+git commit -m "Discos montados de manera persistente, actualizacion de bash.histotry"
+git push git@github.com:joaquinabal/UTNFRA_SO_1P2C_2024_Abal.git
+cd repogit
+cd UTNFRA_SO_1P2C_2024_Abal/
+cd RTA_SCRIPT_Examen_20241002/
+nano Script_B.sh
+ls -l
+nano Punto_B.sh
+nano /etc/stab
+sudo nano /etc/fstab
+nano Punto_B.sh
+history -a
+mount -a
+lsblk -f
+lsblk 
+nano Punto_B.sh
+sudo nano /etc/fstab
